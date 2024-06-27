@@ -3,7 +3,7 @@ getgenv().HowMuchDanSchneiderTouchesYou = 15
 getgenv().HowMuchDanSchneiderTouchedYou = 25
 local Library = loadstring(Game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/wizard"))()
 
-local w= Library:NewWindow("AI. PLAY")
+local w = Library:NewWindow("AI PLAY")
 
 local b = win1:NewSection("Bot") 
 
